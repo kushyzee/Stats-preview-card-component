@@ -152,12 +152,12 @@ footer {
     }
     
     .desc {
-        margin: 0 6rem 0 9rem;
+        margin: 0 8rem 0 9rem;
     }
     
     h1 {
     margin-bottom: 2.3rem;
-    font-size: 3.8rem;
+    font-size: 3.5rem;
     line-height: 1.2;
     }
     
@@ -166,7 +166,7 @@ footer {
         justify-content: space-between;
         margin-top: 5.5rem;
         margin-left: 9rem;
-        padding: 0 8rem 0 0;
+        padding: 0 10rem 0 0;
     }
     
     .container>div {
