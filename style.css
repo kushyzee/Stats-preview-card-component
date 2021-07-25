@@ -11,7 +11,7 @@ html {
 
 body {
     color: #fff;
-    font-size: 1.6rem;
+    font-size: 1.5rem;
     height: 100%;
     padding: 5rem 0 2rem;
     font-family: 'lexend deca', Sans-Serif;
@@ -60,6 +60,10 @@ h1>span {
     color: rgb(170,92,219);
 }
 
+.desc>p {
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
 p {
     line-height: 1.6;
 }
@@ -75,7 +79,7 @@ p {
 }
 h2 {
     font-family: 'inter', Sans-Serif;
-    /* font-weight: 700; */
+    color: hsla(0, 0%, 100%, 0.6);    
     font-size: 2.6rem;
 }
 
