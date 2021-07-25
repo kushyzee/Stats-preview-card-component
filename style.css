@@ -101,6 +101,7 @@ footer {
 @media (min-width: 38em) {
     body {
     padding: 12vh 0;
+    margin: 0;
     }
     
     main {
