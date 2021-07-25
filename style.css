@@ -108,7 +108,7 @@ footer {
     }
 }
 
-@media (min-width: 62em) {
+@media (min-width: 75em) {
     body {
     height: 100%;
     padding: 5rem 0 2rem;
