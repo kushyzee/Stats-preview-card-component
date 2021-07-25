@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github.com](https://github.com/kushyzee/Stats-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [view live site](https://kushyzee.github.io/Stats-preview-card-component/)
 
 ## My process
 
