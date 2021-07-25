@@ -74,12 +74,11 @@ p {
 }
 
 .container>div {
-    /* margin-bottom: 2rem; */
     padding-bottom: 2rem;
 }
 h2 {
     font-family: 'inter', Sans-Serif;
-    color: hsla(0, 0%, 100%, 0.6);    
+    /*color: hsla(0, 0%, 100%, 0.6); */   
     font-size: 2.6rem;
 }
 
@@ -156,7 +155,7 @@ footer {
     }
     
     .desc {
-        margin: 0 9rem 0 8rem;
+        margin: 0 9rem 0 7rem;
     }
     
     h1 {
@@ -169,7 +168,7 @@ footer {
         display: flex;
         justify-content: space-between;
         margin-top: 5.5rem;
-        margin-left: 8rem;
+        margin-left: 7rem;
         padding: 0 11rem 0 0;
     }
     
